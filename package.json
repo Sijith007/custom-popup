@@ -1,5 +1,5 @@
 {
-  "name": "custom-popup",
+  "name": "@sijith/custom-popup",
   "version": "1.0.0",
   "description": "implant 1 line of js script code on any web page that will load the popup we customized in the editor",
   "main": "popup-components.js",
