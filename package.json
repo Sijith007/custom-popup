@@ -1,0 +1,22 @@
+{
+  "name": "custom-popup",
+  "version": "1.0.0",
+  "description": "implant 1 line of js script code on any web page that will load the popup we customized in the editor",
+  "main": "popup-components.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sijith007/custom-popup.git"
+  },
+  "keywords": [
+    "custom-popup"
+  ],
+  "author": "sijith.os",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sijith007/custom-popup/issues"
+  },
+  "homepage": "https://github.com/Sijith007/custom-popup#readme"
+}
