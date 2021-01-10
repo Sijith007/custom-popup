@@ -2,9 +2,7 @@
 
 ## Introduction
 
-This is a custom popup that we can modify and use it in any web application.
-
-This is a web component created in vuejs.
+This custom popup is a web component created in vuejs. We can customize this popup and use in any web application.
 
 ## Usage
 
