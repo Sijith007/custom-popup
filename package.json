@@ -1,6 +1,6 @@
 {
   "name": "@sijith/custom-popup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "implant 1 line of js script code on any web page that will load the popup we customized in the editor",
   "main": "popup-component.js",
   "scripts": {
