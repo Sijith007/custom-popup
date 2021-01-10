@@ -1,4 +1,4 @@
-# custom-popup
+# custom-popup (Popup Component)
 
 ## Introduction
 
