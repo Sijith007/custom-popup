@@ -2,7 +2,7 @@
   "name": "@sijith/custom-popup",
   "version": "1.0.0",
   "description": "implant 1 line of js script code on any web page that will load the popup we customized in the editor",
-  "main": "demo.html",
+  "main": "popup-component.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
