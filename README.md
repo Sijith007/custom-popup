@@ -22,6 +22,8 @@ After installing both packages, include scripts in the web application
 <script src="node_modules/@sijith/custom-popup/popup-components.js"></script>
 ```
 
-Then we can use this webcomponent very easily by adding only one line.
+Then we can use this webcomponent very easily by adding only one line as below.
 
+```
 <popup-component></popup-component>
+```
